@@ -1,0 +1,9 @@
+yahoo.com 15.16.143.251                                                                                                                                                 
+                                                                                                                                                                        
+amazon.com 75.67.34.14                                                                                                                                                  
+                                                                                                                                                                        
+gmail.com 89.45.78.123                                                                                                                                                  
+                                                                                                                                                                        
+myntra.com 78.90.34.897                                                                                                                                                 
+                                                                                                                                                                        
+google.com 10.14.56.123  

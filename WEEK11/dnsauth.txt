@@ -1,0 +1,13 @@
+mail.google.com 45.16.75.24                                                                                                                                             
+                                                                                                                                                                        
+drive.google.com 56.98.23.123                                                                                                                                           
+                                                                                                                                                                        
+student.annauniv.com 23.89.76.234                                                                                                                                       
+                                                                                                                                                                        
+www.ibm.com 34.90.87.123                                                                                                                                                
+                                                                                                                                                                        
+www.google.com 67.74.45.135                                                                                                                                             
+                                                                                                                                                                        
+westernwear.myntra.com 34.90.35.190                                                                                                                                     
+                                                                                                                                                                        
+earrings.amazon.com 78.34.56.890 
