@@ -1,1 +1,9 @@
 
+LAB04 QUESTION:
+
+1. Write client and server programs in C using TCP sockets that will do a simple file transfer. The client sends a file name and the server reads the contents of the file and sends to the client.
+2. Write client and server programs in C using TCP sockets that will do a simple chat. (With Concurrent server – The server should be capable of handling multiple clients at a time)
+
+3. Write client and server programs in C using TCP sockets that send and receive the simple structure information.
+
+Structure should contain student name, register number, year.
