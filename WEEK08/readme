@@ -1,1 +1,15 @@
 
+LAB08 QUESTION:
+
+1.	Implement the following dialogues using TCP sockets:	
+a.	Client to Authentication Server : ID of client ║ Password ║ Request
+(Request : HTTP request for a file)	
+b.	Authentication Server verifies the password, 
+(i)	if correct, then the request is forwarded to the Service Providing Server by the Authentication Server
+(ii)	else, send back an authentication fail message to the client 
+
+c.	Service Providing Server sends back the file to the Authentication Server which in turn sends it back to the Client. (Reply in HTTP packet format)	
+d.	Finally display the content in the file at the Client side	
+
+
+Note: The file content should be individual student’s details like Reg. no, Name, Address, Area of Interest for the Final Year Project.
