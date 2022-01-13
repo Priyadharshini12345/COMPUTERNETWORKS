@@ -1,1 +1,19 @@
+LAB09 QUESTION:
+Implement flow control – GO Back N ARQ
 
+There are a sender and a receiver, and let's assume that there are 10 frames to be sent. These frames are represented as 0,1,2,3,4,5,6,7,8,9.
+
+ N is the sender's window size.
+
+ If the size of the sender's window is 4 then the sequence number will be 0,1,2,3,0,1,2,3,0,1,2, and so on. The number of bits in the sequence number is 2 to generate the binary sequence 00,01,10,11.
+
+Note: you can use any of the option for assigning sequence numbers
+
+First, the sender will send the first four frames to the receiver, 0,1,2,3, and now the sender is expected to receive the acknowledgment of the 0th frame.
+
+Assume that the receiver has sent the acknowledgment for the 0 frame
+
+The sender will then send the next frame, i.e., 4
+
+Let’s assume that the receiver is not acknowledging the frame no 2, either the frame is lost, or the acknowledgment is lost. Instead of sending the frame no 5, the sender Go-Back to 2, which is the first frame of the current window, retransmits
+all frames in the current window. i.e) 2,3,4,5.
