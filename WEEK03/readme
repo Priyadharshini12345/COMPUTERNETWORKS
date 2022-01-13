@@ -1,1 +1,25 @@
 
+LAB 03 QUESTION:
+
+1.Write a socket program in C to implement the following
+
+Server opens a port, creates the TCP socket, and goes into "wait for connection" state, and actively listens for socket connections.
+
+Client logs into the system by connecting to the server on the appropriate port
+
+Client sends username
+
+Server checks to see if it is a new user or existing user and requests a password
+
+Client sends password
+
+Server either registers a new user or checks to see if the password matches. Server then sends acknowledgement to the client
+
+Note:
+
+Store users and their username and passwords in array or in a file
+
+Multiple clients should be able to register.
+
+2. Create Client -Server implement chat until exit command
+Implement Iterative server -client (Chat program)
